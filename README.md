@@ -1,2 +1,2 @@
 # analytics-hiring
-Data for analytics hiring challenges
+These datasets are for Yerdle's analytics hiring challenges. 
