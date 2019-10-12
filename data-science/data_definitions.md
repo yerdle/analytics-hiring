@@ -1,5 +1,5 @@
 ## Data Definitions
-This repository includes two datasets you can leverage for your assignment, which include information on individual items within Homebody's inventory. Definitions for each field are below. 
+This repository includes two datasets you can leverage for your assignment, which include information on individual inventory items from Homebody, our fictional partner whose Yerdle-powered resale program offers used home goods. Definitions for each field are below. 
 
 
 ## [Item Data](https://github.com/yerdle/analytics-hiring/blob/master/data-science/item_data.csv)
