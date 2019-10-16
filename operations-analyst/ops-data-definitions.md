@@ -1,10 +1,10 @@
 | **Field**                | **Definition**                                                |
 |--------------------------|---------------------------------------------------------------|
 | item_id                  | Unique ID for the inventory item                              |
-| category                 | High level category segment. Forms a hierarchy with Category. |
-| department               | Lower level category segment.                                 |
-| from_state_name          | Workflow state the item transitioned from                     |
-| to_state_name            | Workflow state the item transitioned into                     |
+| category                 | High level category segment - forms a hierarchy with Category |
+| department               | Lower level category segment                                 |
+| from_state_name          | Workflow state the item transitioned from (see workflow stages below for values and their definitions)                    |
+| to_state_name            | Workflow state the item transitioned into  (see workflow stages below for values and their definitions)                    |
 | staff_id                 | ID of the employee who caused the state transition            |
 | transition_date_time     | Timestamp when the transition occurred                        |
 | transition_order         | For this item, this is the Xth transition in its lifespan     |
